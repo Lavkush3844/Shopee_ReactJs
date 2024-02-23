@@ -1,0 +1,9 @@
+.nav-menu a{ 
+    margin-right: 30px;
+    color: var(--blue);
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+.nav-menu a:hover{
+    color: var(--orange);
+}
